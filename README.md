@@ -19,8 +19,7 @@ taking a video(video.mp4) as input and displaying it
 ## images.ipynb
 reading an image and converting it into gray scale and some basic operations
 
-## face_capture.py
-drawing a box around the face (face detection in real time)
+
 
 
 
